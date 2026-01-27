@@ -70,7 +70,7 @@
   // LEFT COLUMN - Text Content
   [
     // Task Description
-    #text(size: 14pt, weight: "bold", fill: rgb("#2563eb"))[Task Description]
+    #text(size: 14pt, weight: "bold", fill: rgb("#2563eb"))[Objectives]
     //#v(5pt)
     #line(length: 100%, stroke: 1pt + rgb("#e5e7eb"))
     #v(10pt)

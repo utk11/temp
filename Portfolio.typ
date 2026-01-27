@@ -171,3 +171,5 @@
 //#include "P4.typ"
 //#pagebreak()
 #include "P5.typ"
+#pagebreak()
+#include "P6.typ"

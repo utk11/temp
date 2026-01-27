@@ -17,11 +17,13 @@
     radius: 15pt,
     stroke: 1pt + rgb("#2563eb")
   )[
-    #text(size: 12pt, weight: "bold", fill: rgb("2563eb"))[
+    #text(size: 12pt, weight: "bold", fill: rgb("#2563eb"))[
       Category:Simulation
     ]
   ]
 ]
+
+
 
 
 
@@ -34,7 +36,7 @@
   // LEFT COLUMN - Text Content
   [
     // Task Description
-    #text(size: 14pt, weight: "bold", fill: rgb("#2563eb"))[Task Description]
+    #text(size: 14pt, weight: "bold", fill: rgb("#2563eb"))[Objectives]
     //#v(5pt)
     #line(length: 100%, stroke: 1pt + rgb("#e5e7eb"))
     #v(10pt)
@@ -95,10 +97,10 @@
     // )
     
     // Temporary placeholder for Image 1
-    #figure(image()
-      ,
-      caption: []
-    )
+    // #figure(
+    //   image("path/to/image.png", width: 100%),
+    //   caption: []
+    // )
     
 
     
@@ -109,10 +111,10 @@
     // )
     
     // Temporary placeholder for Image 2
-    #figure(image("", width: 90%,height: auto)
-      ,
-      caption: [Simulation setup]
-    ),
+    // #figure(
+    //   image("path/to/image.png", width: 90%, height: auto),
+    //   caption: [Simulation setup]
+    // )
     
     //#v(10pt)
     
